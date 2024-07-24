@@ -24,7 +24,7 @@ jobs:
      # Add scaphandre
      - uses: actions/checkout@v3
        with:
-         repository: 'https://github.com/hubblo-org/scaphandre'
+         repository: 'hubblo-org/scaphandre'
      - name: compile scaphandre
        run: cargo build --release
      - name: run scaphandre
