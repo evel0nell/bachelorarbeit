@@ -28,7 +28,7 @@ jobs:
      - name: compile scaphandre
        run: cargo build --release
      - name: run scaphandre
-       run: ./target/release/scaphandre prometheus
+       run: .scaphandre stdout
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
      - uses: actions/checkout@v4
 
