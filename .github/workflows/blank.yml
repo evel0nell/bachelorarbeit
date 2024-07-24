@@ -23,7 +23,9 @@ jobs:
     steps:
     
      - name: run scaphandre
-       run: cd .. && .scaphandre stdout
+       run: |
+         cd .. 
+         /.scaphandre stdout
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
      - uses: actions/checkout@v4
 
