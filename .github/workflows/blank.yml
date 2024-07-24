@@ -21,17 +21,20 @@ jobs:
     runs-on: self-hosted
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
+     # Add scaphandre
+     - uses: actions/checkout@v3
+       with:
+         repository: 'https://github.com/hubblo-org/scaphandre'
+     - name: compile scaphandre
+       run: cargo build --release
+     - name: run scaphandre
+       run: cd ./target/release/scaphandre prometheus
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v4
-
+     - uses: actions/checkout@v4
 
       # Runs a single command using the runners shell
-      - name: Run prime script
-        run: python3 ./prime.py
+     - name: Run prime script
+       run: python3 ./prime.py
 
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
-        run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+    
 
