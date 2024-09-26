@@ -29,8 +29,5 @@ jobs:
      - name: Run prime script
        run: python3 ./prime.py
 
-     - name: stop scaphandre
-       run: pkill scaphandre
-
     
 
