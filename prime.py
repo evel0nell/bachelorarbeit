@@ -1,6 +1,6 @@
 # Program to check if a number is prime or not
 
-num =4959793661414261
+num =3411949
 
 # To take input from the user
 #num = int(input("Enter a number: "))
