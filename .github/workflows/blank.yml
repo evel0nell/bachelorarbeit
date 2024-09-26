@@ -27,7 +27,7 @@ jobs:
 
       # Runs a single command using the runners shell
      - name: Start scaphandre
-       run: ~/scaphandre/target/debug/scaphandre --vm -s 1 -f report.json
+       run: ~/scaphandre/target/debug/scaphandre --vm json -s 1 -f report.json
      - name: Run prime script
        run: python3 ./prime.py
 
