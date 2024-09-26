@@ -26,8 +26,6 @@ jobs:
      - uses: actions/checkout@v4
 
       # Runs a single command using the runners shell
-     - name: Start scaphandre
-       run: ~/scaphandre/target/debug/scaphandre --vm json -s 1 -f report.json
      - name: Run prime script
        run: python3 ./prime.py
 
