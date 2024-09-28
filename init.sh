@@ -24,7 +24,8 @@ sudo cargo build
 
 # Inform user about the binary location
 echo "Build completed! The binary can be found at target/debug/scaphandre"
-sudo ln -s ./scaphandre/target/debug/scaphandre /usr/local/bin/scaphandre
+sudo ln -s ./scaphandre/target/debug/scaphandre /usr/local/sbin/scaphandre
  
 sudo mkdir ./tests
+cd tests
 sudo touch report.json
