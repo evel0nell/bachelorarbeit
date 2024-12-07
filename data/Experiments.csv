@@ -1,0 +1,41 @@
+﻿UID;Host OS;Virtualization technology;Guest OS;time;total_energy;energy;status;git repository;workflow;step;vcpu;memory;average ;hint dedicated;vcpupin;emulatorpin;iothreadpin;shares;cachetune;hotplug;enable nesting pages;enable PAE/NX;execution cap;cpu limit
+KVM13;Ubuntu Desktop 24;KVM;Ubuntu Server 24;00:35:45;12752,57596;17,71191106;success;freeCodeCamp;containers;5;1;4000;29,72628429;0;0;0;0;-1;0;0;-1;-1;-1;-1
+VirtualBox9;Ubuntu Desktop 24;VirtualBox;Ubuntu Server 24;00:34:12;11575,486;16,07706389;failed;freeCodeCamp;containers;5;1;4000;28,20537524;-1;-1;-1;-1;-1;-1;-1;0;0;100;-1
+KVM19;Ubuntu Desktop 24;KVM;Ubuntu Server 24;00:06:06;2036,316;2,828216667;success;vue;ci;5;1;4096;27,81852459;0;0;0;0;0;0;0;-1;-1;-1;-1
+KVM20;Ubuntu Desktop 24;KVM;Ubuntu Server 24;00:06:09;2048,66;2,845361111;success;vue;ci;5;1;4096;27,7596206;0;0;0;0;0;0;0;-1;-1;-1;-1
+KVM11;Ubuntu Desktop 24;KVM;Ubuntu Server 24;00:37:28;13138,745;18,24825694;success;freeCodeCamp;containers;5;1;4096;29,22318728;0;0;0;0;-1;0;0;-1;-1;-1;-1
+KVM8;Ubuntu Desktop 24;KVM;Ubuntu Server 24;00:39:26;13931,025;19,34864583;success;freeCodeCamp;containers;5;1;4096;29,44003593;0;0;0;0;-1;0;0;-1;-1;-1;-1
+KVM9;Ubuntu Desktop 24;KVM ;Ubuntu Server 24;00:36:55;12893,982;17,90830833;success;freeCodeCamp;containers;5;1;4096;29,10605418;0;0;0;0;-1;0;-1;-1;-1;-1;-1
+VirtualBox14;Ubuntu Desktop 24;VirtualBox;Ubuntu Server 24;00:06:33;2004,73;2,784347222;success;vue;ci;5;1;4241;25,50547074;0;-1;100;-1;-1;-1;-1;1;1;100;-1
+VirtualBox13;Ubuntu Desktop 24;VirtualBox;Ubuntu Server 24;00:06:05;2077,739;2,885748611;success;vue;ci;5;1;4241;28,46217808;0;-1;100;-1;-1;-1;-1;1;1;100;-1
+KVM10;Ubuntu Desktop 24;KVM;Ubuntu Server 24;00:40:38;16280,336;22,61157778;success;freeCodeCamp;containers;5;1;5000;33,38871206;0;0;0;0;-1;0;0;-1;-1;-1;-1
+VirtualBox11ADEF;Ubuntu Desktop 24;VirtualBox;Ubuntu Server 24;00:19:00;7392,53109;10,26740429;failed;freeCodeCamp;containers;5;1;5000;32,42338197;0;-1;-1;-1;-1;-1;-1;1;1;100;-1
+KVM15;Ubuntu Desktop 24;KVM;Ubuntu Server 24;00:32:42;11596,84589;16,1067304;success;freeCodeCamp;containers;5;1;6000;29,55363376;0;0;0;0;-1;0;0;-1;-1;-1;-1
+KVM17;Ubuntu Desktop 24;KVM;Ubuntu Server 24;00:33:28;11643,72279;16,17183721;failed;freeCodeCamp;containers;5;1;6000;28,99333365;0;1;0;0;2048;0;0;-1;-1;-1;-1
+KVM17F;Ubuntu Desktop 24;KVM;Ubuntu Server 24;00:34:42;12031,1881;16,70998347;failed;freeCodeCamp;containers;5;1;6000;28,89334318;0;1;0;0;2048;0;0;-1;-1;-1;-1
+KVM16;Ubuntu Desktop 24;KVM;Ubuntu Server 25;00:35:21;12041,208;16,7239;success;freeCodeCamp;containers;5;1;6000;28,385686;0;0;0;0;-1;0;0;-1;-1;-1;-1
+KVM17S1;Ubuntu Desktop 24;KVM;Ubuntu Server 24;00:37:56;12313,40872;17,10195656;success;freeCodeCamp;containers;5;1;6000;27,0505464;0;1;0;0;-1;0;0;-1;-1;-1;-1
+KVM24;Ubuntu Desktop 24;KVM;Ubuntu Server 24;00:38:03;13110,0305;18,20837569;success;freeCodeCamp;containers;5;2;6000;28,71228756;-1;0;0;0;-1;0;0;-1;-1;-1;-1
+KVM12;Ubuntu Desktop 24;KVM;Ubuntu Server 24;00:46:00;14742,068;20,47509444;success;freeCodeCamp;containers;5;2;6000;26,70664493;0;0;0;0;-1;0;0;-1;-1;-1;-1
+VirtualBox15;Ubuntu Desktop 24;VirtualBox;Ubuntu Server 24;00:06:05;1771;2,459722222;success;vue;ci;5;1;6000;24,26027397;-1;-1;100;-1;-1;-1;-1;1;1;100;-1
+VirtualBox10;Ubuntu Desktop 24;VirtualBox;Ubuntu Server 24;00:10:41;3671,348;5,099094444;failed;freeCodeCamp;containers;5;1;6000;28,63765991;-1;-1;-1;-1;-1;-1;-1;1;0;100;-1
+VirtualBox17;Ubuntu Desktop 24;VirtualBox;Ubuntu Server 24;00:32:35;10091,27034;14,01565325;success;freeCodeCamp;containers;5;1;6000;25,80887555;-1;-1;-1;-1;-1;-1;-1;1;0;100;-1
+VirtualBox12;Ubuntu Desktop 24;VirtualBox;Ubuntu Server 24;00:32:04;10327,107;14,34320417;success;freeCodeCamp;containers;5;1;6000;26,83759615;-1;-1;-1;-1;-1;-1;-1;1;1;100;-1
+VirtualBox11FF;Ubuntu Desktop 24.02;VirtualBox;Ubuntu Server 24;00:35:45;11357,9524;15,77493389;success;freeCodeCamp;containers;5;1;6000;26,47541352;-1;-1;-1;-1;-1;-1;-1;1;1;100;-1
+VirtualBox8;Ubuntu Desktop 24;VirtualBox;Ubuntu Server 24;00:57:04;16150;22,43055556;success;freeCodeCamp;containers;5;2;6000;23,58352804;-1;-1;-1;-1;-1;-1;-1;1;0;100;-1
+VirtualBox11;Ubuntu Desktop 24;VirtualBox;Ubuntu Server 24;00:31:24;9880,60432;13,72306156;success;freeCodeCamp;containers;5;1;6702;26,22241062;-1;-1;-1;-1;-1;-1;-1;1;1;100;-1
+KVM14;Ubuntu Desktop 24;KVM;Ubuntu Server 24;00:33:10;11796,698;16,38430278;success;freeCodeCamp;containers;5;1;7000;29,63994472;-1;0;0;0;-1;0;0;-1;-1;-1;-1
+KVM22;Ubuntu Desktop 24;KVM;Ubuntu Server 24;00:05:52;1958,242;2,719780556;success;vue;ci;5;1;7040;27,8159375;-1;0;0;0;-1;0;0;-1;-1;-1;-1
+KVM21;Ubuntu Desktop 24;KVM;Ubuntu Server 24;00:05:58;1994,3044;2,769867222;success;vue;ci;5;1;7040;27,85341341;0;0;0;0;-1;0;0;-1;-1;-1;-1
+lxc3;Ubuntu Desktop 24.02;LXC;ubuntu;00:29:07;8470,97878;11,76524831;success;freeCodeCamp;containers;5;2;-1;24,24435827;-1;0;-1;-1;-1;-1;-1;-1;-1;-1;0
+lxc1;Ubuntu Desktop 24.02;LXC;ubuntu;00:32:32;9465,998;13,14721944;success;freeCodeCamp;containers;5;1;-1;24,24692111;-1;0;-1;-1;-1;-1;-1;-1;-1;-1;0
+lxc2;Ubuntu Desktop 24.02;LXC;ubuntu;00:31:19;9586,825;13,31503472;success;freeCodeCamp;containers;5;1;-1;25,51044439;-1;0;-1;-1;-1;-1;-1;-1;-1;-1;0
+lxc4;Ubuntu Desktop 24.02;LXC;ubuntu;00:27:26;8460,918;11,751275;success;freeCodeCamp;containers;5;2;-1;25,701452;-1;0;-1;-1;-1;-1;-1;-1;-1;-1;0
+VirtualBox7;Ubuntu Desktop 24;VirtualBox;Ubuntu Server 24;00:32:32;8496,62372;11,80086628;success;freeCodeCamp;containers;5;1;-1;21,76389273;-1;0;-1;-1;-1;-1;-1;1;0;100;-1
+VirtualBox6;Ubuntu Desktop 24;VirtualBox;Ubuntu Server 24;00:33:23;10374;14,40833333;success;freeCodeCamp;containers;5;1;-1;25,89615577;-1;0;-1;-1;-1;-1;-1;1;0;100;-1
+VirtualBox5;Ubuntu Desktop 24;VirtualBox;Ubuntu Server 24;00:37:07;11654,727;16,18712083;success;freeCodeCamp;containers;5;1;-1;26,16687696;-1;0;-1;-1;-1;-1;-1;1;0;100;-1
+VirtualBox4;Ubuntu Desktop 24;VirtualBox;Ubuntu Server 24;00:16:00;77583,645;107,7550625;failed;freeCodeCamp;containers;5;1;-1;404,0814844;-1;0;-1;-1;-1;-1;-1;1;1;100;-1
+VirtualBox16;Ubuntu Desktop 24;VirtualBox;Ubuntu Server 24;01:03:06;18940,827;26,30670417;success;freeCodeCamp;containers;5;2;-1;25,01429873;-1;0;-1;-1;-1;-1;-1;;;;
+lxcstep1vue;Ubuntu Desktop 24.02;LXC;ubuntu;00:05:52;9115,674;2,532131667;success;vue;ci;1;2;-1;25,701452;-1;0;-1;-1;-1;-1;-1;-1;-1;-1;0
+lxcstep5vue;Ubuntu Desktop 24.02;LXC;ubuntu;00:05:50;1616,258063;2,244802865;success;vue;ci;5;2;-1;25,701452;-1;0;-1;-1;-1;-1;-1;-1;-1;-1;0
+lxcstep10vue;Ubuntu Desktop 24.02;LXC;ubuntu;00:05:56;840,258063;2,334050175;success;vue;ci;10;2;-1;25,701452;-1;0;-1;-1;-1;-1;-1;-1;-1;-1;0
